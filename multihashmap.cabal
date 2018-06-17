@@ -1,11 +1,11 @@
 name:                multihashmap
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            hashmap from keys to hashsets
 description:         hashmap from keys to hashsets, yeah
 homepage:            https://github.com/chessai/multihash
 license:             BSD3
 license-file:        LICENSE
-author:              chessai
+author:              Olle Fredriksson
 maintainer:          chessai1996@gmail.com
 copyright:           (c) 2018 chessai
 category:            Data
