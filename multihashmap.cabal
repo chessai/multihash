@@ -7,7 +7,7 @@ license:             BSD3
 license-file:        LICENSE
 author:              Olle Fredriksson
 maintainer:          chessai1996@gmail.com
-copyright:           (c) 2018 chessai
+copyright:           (c) 2018 Olle Fredriksson
 category:            Data
 build-type:          Simple
 extra-source-files:  ChangeLog.md
